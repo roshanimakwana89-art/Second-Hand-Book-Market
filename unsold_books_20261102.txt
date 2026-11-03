@@ -1,0 +1,23 @@
+====================================
+       UNSOLD BOOKS REPORT
+====================================
+id,title,subject,price,seller,status
+3,DBMS Guide,SQL,200,KABIR,available
+4,Java Programming,Java,300,ROHAN,available
+7,Data Structures,DS,280,AMAN,available
+8,Operating Systems,OS,240,NEHA,available
+9,Computer Networks,CN,190,DEV,available
+10,Software Engineering,SE,260,PRIYA,available
+11,Python Advanced,Python,350,ARJUN,available
+12,Database Systems,DBMS,230,ISHA,available
+13,Linux Administration,Linux,170,KUNAL,available
+14,HTML CSS Guide,Web,140,ANAYA,available
+15,Java Basics,Java,210,RAHUL,available
+16,Machine Learning,ML,400,KRISH,available
+17,Computer Fundamentals,Computer,160,POOJA,available
+18,PHP Programming,PHP,270,RIYA,available
+19,Networking Basics,CN,200,DEV,available
+20,Algorithms,DS,320,AMAN,available
+22,java,coding,300,roshani,available
+====================================
+Report generated on: Mon Nov  2 17:44:33 UTC 2026
